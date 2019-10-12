@@ -1,0 +1,10 @@
+{
+    "name": "samsung/aposta",
+    "require": {}
+}
+{
+    "autoload":{
+        "psr-4"
+        "Paulo Tiago Magalhães // Cassa de Aposta"
+    }
+}
